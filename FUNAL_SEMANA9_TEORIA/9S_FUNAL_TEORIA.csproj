@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BIBLIOTECA_SEMANA9_TEORIA\BIBLIOTECA_SEMANA9_TEORIA.csproj">
+    <ProjectReference Include="..\BIBLIOTECA_SEMANA9_TEORIA\9S_FUNAL_TEORIA_BIBLIOTECA.csproj">
       <Project>{8e1b2fbc-b501-4f0b-b17f-484a779799cd}</Project>
-      <Name>BIBLIOTECA_SEMANA9_TEORIA</Name>
+      <Name>9S_FUNAL_TEORIA_BIBLIOTECA</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
