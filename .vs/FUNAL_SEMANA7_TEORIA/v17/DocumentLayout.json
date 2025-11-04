@@ -1,51 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\semana_11_caso1\\caso_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|solutionrelative:semana_11_caso1\\caso_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90BF165-F4A2-4383-A16F-35EC33C10EFD}|S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A90BF165-F4A2-4383-A16F-35EC33C10EFD}|S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj|solutionrelative:S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\semana_11_caso1\\caso_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|solutionrelative:semana_11_caso1\\caso_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55BA9EE7-08E0-4280-8E86-BD82A0118830}|S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\s12_funal_teoria_arreglo_unidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BA9EE7-08E0-4280-8E86-BD82A0118830}|S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL.csproj|solutionrelative:s12_funal_teoria_arreglo_unidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\semana_11_caso1\\caso_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|solutionrelative:semana_11_caso1\\caso_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|S11_FUNAL_TEORIA_CASO_1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\semana_11_caso1\\caso_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|solutionrelative:semana_11_caso1\\caso_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B19202C-336C-4303-AB77-9E608986FBC6}|FUNAL_SEMANA7_TEORIA\\FUNAL_SEMANA7_TEORIA.csproj|C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\funal_semana7_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B19202C-336C-4303-AB77-9E608986FBC6}|FUNAL_SEMANA7_TEORIA\\FUNAL_SEMANA7_TEORIA.csproj|solutionrelative:funal_semana7_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UPN\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\funal_semana9_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|solutionrelative:funal_semana9_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEMANA_11_CASO1\\Caso_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\funal_semana9_teoria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|solutionrelative:funal_semana9_teoria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEMANA_11_CASO1\\Caso_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E1B2FBC-B501-4F0B-B17F-484A779799CD}|BIBLIOTECA_SEMANA9_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA.csproj|C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\biblioteca_semana9_teoria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E1B2FBC-B501-4F0B-B17F-484A779799CD}|BIBLIOTECA_SEMANA9_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA.csproj|solutionrelative:biblioteca_semana9_teoria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEMANA_11_CASO1\\Caso_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{752E921B-A433-4BB7-B6F3-3EC4B9EA9496}|FUNAL_SEMANA8_TEORIA\\FUNAL_SEMANA8_TEORIA.csproj|C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\funal_semana8_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752E921B-A433-4BB7-B6F3-3EC4B9EA9496}|FUNAL_SEMANA8_TEORIA\\FUNAL_SEMANA8_TEORIA.csproj|solutionrelative:funal_semana8_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEMANA_11_CASO1\\Caso_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610D76EC-C63C-4EC1-AAB9-2E221589816C}|SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj|c:\\users\\upn\\desktop\\fa_teoria\\fa_teoria\\semana_11_caso1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUNAL_SEMANA9_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUNAL_SEMANA8_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUNAL_SEMANA7_TEORIA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,67 +60,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Caso_4.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_4.cs",
-              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_4.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_4.cs",
-              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_4.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:17:19.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "S11_FUNAL_TEORIA_CASO_1",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj",
-              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj",
-              "RelativeToolTip": "SEMANA_11_CASO1\\S11_FUNAL_TEORIA_CASO_1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-28T15:08:37.07Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Caso_3.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_3.cs",
-              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_3.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_3.cs",
-              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_3.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAnwAwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:08:07.32Z",
+              "Title": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj",
+              "RelativeDocumentMoniker": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj",
+              "RelativeToolTip": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-04T15:17:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py",
+              "RelativeDocumentMoniker": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py",
+              "RelativeToolTip": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL_PY.py",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAARAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALmSURBVDhPrZTfa1tlGMc/7zknv3NOkjVJu/RkpUg7uqyxShErVKXMwnT\u002BwO1ieOff4P/g5ZjgnRciMu9E74UhFAWH1DVNI9Y2/bXZhKU5ydLTLudHXi80kroMb/zCc/E8z/f74eXl5YX/Q1JKMdgvLCzcnpiYeG9w9m8JIe5UKpXP19bWtgbn2mATDofTy8vLF\u002Bbn5wfH/6hcLlOv169ms9mOqqrfrK6u/tbfqYPGycnJ95eWlmanpqawbXtwRT6fp91uk8vl9NHR0RHP83Bdt1ar1SwA5Yz7b2maRjQaPVOK8pfVcZxYMBi8ZJrmFdM0X\u002BhnhoKEEKiqeqYkglQ6ixaOoidS8fHxcRPI9TNDQd1ul1arRavVwrIsdv5osFnr0FRSnMZMeqkLxDJ5LZlMhvuZM5fdVzweJxQKAeD1JPVDh\u002B/XH7Fx0KTVOSEWgNmMGrtUKIz1M0NPZFkWGxsV1ssbrJUrHDSOcRwX6fn0PI9m28Y6dcMjmXTWMKK6YRiBoaB0Os3Fy0W0sWnud86x37RxfZ8RXSOige\u002B7JKJPEjffyt7YK3/2y95O5eZQkGVZ/LS\u002ByberNe5VG5R2GlT2G1QPmzy2T/BdF\u002BG3RUTZCyaCW2Yi\u002BOCjoaB4PE4knqRab9M5eYLrOLyYV7hSCHBtLsyHr8V5e85DcXfBbQRwH14cCup2uxwfH\u002BN7LkJ6vDsnuV7c5frlLW48v8M7hW2K2X2EewSeLZCeNhQkhECPBMinIig9h9enXQrZQ6ZSBzyX3CUXqRLlIXg2SN9DO18dCtJ1nZlJkzdmz/PqzBgZXaIJH3ou9CRIFdRMi9jLJWKv3CM0/cVT7\u002Bjo6Ijt7W0ApnWVmWISI9yU4tQB71Sg6KDoEC4\u002BeBx486tSqfQ7bH73n99IJBLkk48/CMX8uwnh1IIQEqjnPGIv3f/h1\u002Byni4uLXw76nynDMDTLal6V9s8/yubXtnx0x5Gtu2XZPby1srKy1Pf9CbDGIodTYeM3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-04T15:06:39.481Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\Program.cs",
+              "RelativeDocumentMoniker": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\Program.cs",
+              "RelativeToolTip": "S12_FUNAL_TEORIA_ARREGLO_UNIDIMENSIONAL\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:59:19.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Caso_2.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_2.cs",
-              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_2.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_2.cs",
-              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Title": "Caso_4.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_4.cs",
+              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_4.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_4.cs",
+              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:35:23.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:17:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caso_3.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_3.cs",
+              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_3.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_3.cs",
+              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:08:07.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Caso_2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_2.cs",
+              "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_2.cs",
+              "RelativeToolTip": "SEMANA_11_CASO1\\Caso_2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:35:23.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\UPN\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\UPN\\AppData\\Local\\Temp\\.vsdbgsrc\\2dcb00835f7ba228061b4f46eef161c925e3ea7f7b2de85cf37e82fb2a355c7a\\Program.cs [Solo lectura]",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T13:26:11.863Z",
@@ -123,81 +153,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Caso_1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_1.cs",
               "RelativeDocumentMoniker": "SEMANA_11_CASO1\\Caso_1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\SEMANA_11_CASO1\\Caso_1.cs",
               "RelativeToolTip": "SEMANA_11_CASO1\\Caso_1.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T13:22:54.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T13:22:54.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:55:02.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T00:55:02.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
               "RelativeDocumentMoniker": "BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
               "RelativeToolTip": "BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T19:40:52.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
-              "RelativeDocumentMoniker": "FUNAL_SEMANA9_TEORIA\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
-              "RelativeToolTip": "FUNAL_SEMANA9_TEORIA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:48:27.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T19:40:52.103Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
-              "RelativeDocumentMoniker": "FUNAL_SEMANA8_TEORIA\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
-              "RelativeToolTip": "FUNAL_SEMANA8_TEORIA\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "RelativeDocumentMoniker": "FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "RelativeToolTip": "FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:45:26.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T04:48:27.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "RelativeDocumentMoniker": "FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "RelativeToolTip": "FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:45:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
               "RelativeDocumentMoniker": "FUNAL_SEMANA7_TEORIA\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_TEORIA\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (4)\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
               "RelativeToolTip": "FUNAL_SEMANA7_TEORIA\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:33:07.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T04:33:07.089Z"
             }
           ]
         }
