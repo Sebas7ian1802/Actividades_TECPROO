@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}</ProjectGuid>
+    <ProjectGuid>{7B5495AF-9043-44DD-94BF-265687F9D8BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FUNAL_SEMANA9_TEORIA</RootNamespace>
-    <AssemblyName>FUNAL_SEMANA9_TEORIA</AssemblyName>
+    <RootNamespace>S14_FUNAL_TEORIA_CASOS_CARACTERES</RootNamespace>
+    <AssemblyName>S14_FUNAL_TEORIA_CASOS_CARACTERES</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>S14_FUNAL_TEORIA_CASOS_CARACTERES.Clase2</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,17 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Clase2.cs" />
+    <Compile Include="Clase1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\9S_FUNAL_TEORIA_BIBLIOTECA\9S_FUNAL_TEORIA_BIBLIOTECA.csproj">
-      <Project>{8e1b2fbc-b501-4f0b-b17f-484a779799cd}</Project>
-      <Name>9S_FUNAL_TEORIA_BIBLIOTECA</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
