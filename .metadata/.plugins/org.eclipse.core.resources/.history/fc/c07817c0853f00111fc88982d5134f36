@@ -1,0 +1,12 @@
+package semana_3_ejer_1;
+
+import java.io.IOException;
+
+public class Archivo {
+    public void leerArchivo(String nombreArchivo) throws IOException {
+        if (nombreArchivo.isEmpty()) {
+            throw new IOException("El nombre del archivo está vacio o corrupto.");
+        }
+        System.out.println("📖 Leyendo el archivo: " + nombreArchivo + " ...");
+    }
+}

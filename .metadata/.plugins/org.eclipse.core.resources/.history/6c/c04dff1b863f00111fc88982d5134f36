@@ -1,0 +1,83 @@
+package semana_3_ejer_1;
+
+import java.io.IOException;
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class MainSemana3 {
+    public static void main(String[] args) {
+        
+        System.out.println("\n");
+
+        // Ejercicio 1
+        Calculadora calc = new Calculadora();
+        System.out.println("1. Calculadora (2 ints): " + calc.sumar(10, 5));
+        System.out.println("   Calculadora (2 doubles): " + calc.sumar(10.5, 5.2));
+
+        // Ejercicio 2
+        Conversor conv = new Conversor();
+        System.out.println("2. Conversor -> 25°C a F: " + conv.convertir(25.0));
+        System.out.println("   Conversor -> 150 seg a min: " + conv.convertir(150));
+
+        // Ejercicio 3
+        new Contador(); new Contador(); new Contador();
+        System.out.print("3. "); Contador.mostrarTotal();
+
+        // Ejercicio 4
+        System.out.print("4. "); Banco.mostrarTasa();
+        Banco.actualizarTasa(0.08);
+
+        // Ejercicio 5 y 6
+        Auto miAuto = new Auto();
+        System.out.print("5. "); miAuto.mostrarMotor();
+        
+        Libro miLibro = new Libro();
+        Libro.Pagina miPagina = miLibro.new Pagina();
+        System.out.print("\n6. "); miPagina.mostrarContenido();
+
+        // Ejercicio 7
+        Division div = new Division();
+        System.out.print("\n7. "); div.dividirSeguro(10, 0);
+
+        // Ejercicio 9
+        ValidarEdad validador = new ValidarEdad();
+        System.out.print("\n9. ");
+        try {
+            validador.verificarEdad(15);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Excepcion capturada: " + e.getMessage());
+        }
+
+        // Ejercicio 10
+        Archivo arc = new Archivo();
+        System.out.print("10. ");
+        try {
+            arc.leerArchivo("");
+        } catch (IOException e) {
+            System.out.println("Excepcion de I/O capturada: " + e.getMessage());
+        }
+
+        // Ejercicio 8 Entrada de usuario con Scanner
+        System.out.println("\nEJERCICIO 8");
+        Scanner scanner = new Scanner(System.in);
+        
+        try {
+            System.out.print("Ingresa el primer numero entero: ");
+            int num1 = scanner.nextInt();
+            
+            System.out.print("Ingresa el segundo numero entero: ");
+            int num2 = scanner.nextInt();
+            
+            int resultado = num1 / num2;
+            System.out.println("Resultado de la division: " + resultado);
+            
+        } catch (ArithmeticException e) {
+            System.out.println("ERROR: No puedes dividir entre cero.");
+        } catch (InputMismatchException e) {
+            System.out.println("ERROR: Debes ingresar un numero entero valido, no letras ni símbolos.");
+        } finally {
+            scanner.close(); 
+            System.out.println("Fin del programa");
+        }
+    }
+}

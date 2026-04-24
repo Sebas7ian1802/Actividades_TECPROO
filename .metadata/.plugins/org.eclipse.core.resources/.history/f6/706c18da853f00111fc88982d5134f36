@@ -1,0 +1,14 @@
+package semana_3_ejer_1;
+
+public class Contador {
+    // Variable estática: compartida por todos los contadores
+    public static int totalObjetos = 0;
+
+    public Contador() {
+        totalObjetos++; // Cada vez que nace un objeto, suma 1 al global
+    }
+
+    public static void mostrarTotal() {
+        System.out.println("Total de objetos Contador creados: " + totalObjetos);
+    }
+}
