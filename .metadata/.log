@@ -1,0 +1,104 @@
+!SESSION 2026-04-23 18:58:19.342 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_PE
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-23 18:58:22.166
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-23 18:58:38.603
+!MESSAGE Logback config file: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-04-23 18:58:48.392
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LENOVO'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-04-23 19:05:35.054 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_PE
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/LENOVO/eclipse-workspace/
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-23 19:05:37.663
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-23 19:05:39.482
+!MESSAGE Logback config file: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY com.genuitec.copilot4eclipse.boot 1 0 2026-04-23 19:05:44.626
+!MESSAGE [C4E] booting
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-04-23 19:05:44.674
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\LENOVO'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.copilot4eclipse.copilotapi 1 0 2026-04-23 19:05:45.075
+!MESSAGE [C4E] Language server: LOCAL_NODE
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-04-23 19:05:46.692
+!MESSAGE [LS:Copilot4Eclipse Language Server][Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2026-04-23 19:05:46.711
+!MESSAGE [C4E] EdgeDataDir: C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\com.genuitec.copilot4eclipse.chat\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2026-04-23 19:05:47.016
+!MESSAGE [C4E] Conversation persistence: C:/Users/LENOVO/eclipse-workspace/.metadata/.plugins/com.genuitec.copilot4eclipse/chatdata
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2026-04-23 19:05:47.267
+!MESSAGE [C4E] Internal server started: true uri: http://localhost:49468/chat
+
+!ENTRY com.genuitec.copilot4eclipse.copilotapi 1 0 2026-04-23 19:05:47.307
+!MESSAGE [C4E] Copilot API proxy: native mode
+
+!ENTRY com.genuitec.copilot4eclipse.boot 1 0 2026-04-23 19:05:47.357
+!MESSAGE [C4E] API started
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-04-23 19:05:47.784
+!MESSAGE [LS:Copilot4Eclipse Language Server][Info]	[certificates] Removed 9 expired certificates
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2026-04-23 19:05:52.034
+!MESSAGE [C4E] Workspace labels: 
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-04-23 19:34:35.505
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): Unidad1_Sesion1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:548)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2550)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1046)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:743)
+	at org.eclipse.jdt.core.manipulation.internal.javadoc.CoreJavadocAccess.getHTMLContent(CoreJavadocAccess.java:234)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:49)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.getJavadocHtml(JavadocView.java:1070)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.computeInput(JavadocView.java:856)
+	at org.eclipse.jdt.internal.ui.infoviews.AbstractInfoView$2.run(AbstractInfoView.java:735)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-04-23 19:34:35.506
+!MESSAGE Unidad1_Sesion1 does not exist
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-04-23 19:34:35.506
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): Unidad1_Sesion1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:548)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2550)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2377)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2450)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:633)
+	at org.eclipse.jdt.core.manipulation.internal.javadoc.CoreJavaDocLocations.getJavadocBaseLocation(CoreJavaDocLocations.java:137)
+	at org.eclipse.jdt.core.manipulation.internal.javadoc.CoreJavaDocLocations.getExplanationForMissingJavadoc(CoreJavaDocLocations.java:534)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getExplanationForMissingJavadoc(JavaDocLocations.java:84)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.getJavadocHtml(JavadocView.java:1087)
+	at org.eclipse.jdt.internal.ui.infoviews.JavadocView.computeInput(JavadocView.java:856)
+	at org.eclipse.jdt.internal.ui.infoviews.AbstractInfoView$2.run(AbstractInfoView.java:735)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-04-23 19:34:35.506
+!MESSAGE Unidad1_Sesion1 does not exist

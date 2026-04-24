@@ -1,0 +1,45 @@
+package ejercicio1;
+
+import java.util.ArrayList; // Importamos la clase ArrayList
+
+public class ProductoController {
+    
+    // Atributo: Una lista dinámica que solo aceptará objetos de tipo 'Producto'
+    private ArrayList<Producto> listaProductos;
+
+    // Constructor: Inicializamos el ArrayList vacío en memoria
+    public ProductoController() {
+        this.listaProductos = new ArrayList<>();
+    }
+
+    // Método para agregar un producto a la lista
+    public void agregarProducto(Producto p) {
+        listaProductos.add(p);
+        System.out.println("Producto '" + p.getNombre() + "' agregado correctamente.");
+    }
+
+    // Método para listar todos los productos
+    public void listarProductos() {
+        System.out.println("\n--- LISTA DE PRODUCTOS ---");
+        if (listaProductos.isEmpty()) {
+            System.out.println("No hay productos en la tienda.");
+            return;
+        }
+        
+        // Usamos un bucle "for-each" para recorrer la lista
+        for (Producto p : listaProductos) {
+            System.out.println(p.toString());
+        }
+        System.out.println("--------------------------\n");
+    }
+
+    // Método para buscar un producto por su ID
+    public Producto buscarProductoPorId(int id) {
+        for (Producto p : listaProductos) {
+            if (p.getId() == id) {
+                return p; // Si lo encuentra, devuelve el objeto completo
+            }
+        }
+        return null; // Si termina de buscar y no hay coincidencias, devuelve nulo
+    }
+}

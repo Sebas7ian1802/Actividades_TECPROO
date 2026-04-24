@@ -1,6 +1,0 @@
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\bin\Debug\BIBLIOTECA_SEMANA9_TEORIA.dll
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\bin\Debug\BIBLIOTECA_SEMANA9_TEORIA.pdb
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\obj\Debug\BIBLIOTECA_SEMANA9_TEORIA.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\obj\Debug\BIBLIOTECA_SEMANA9_TEORIA.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\obj\Debug\BIBLIOTECA_SEMANA9_TEORIA.dll
-C:\Users\Usuario\Desktop\Nueva carpeta (2)\FA_TEORIA\BIBLIOTECA_SEMANA9_TEORIA\obj\Debug\BIBLIOTECA_SEMANA9_TEORIA.pdb

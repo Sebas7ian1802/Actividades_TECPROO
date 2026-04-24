@@ -1,0 +1,39 @@
+package semana_1;
+
+import java.util.ArrayList; // Corregido: "util" en lugar de "until"
+
+public class ProductoController {
+    
+    private ArrayList<Producto> listaProductos;
+
+    public ProductoController() {
+        this.listaProductos = new ArrayList<>();
+    }
+
+    public void agregarProducto(Producto p) {
+        listaProductos.add(p);
+        System.out.println("Producto '" + p.getNombre() + "' agregado correctamente.");
+    }
+
+    public void listarProductos() {
+        System.out.println("\n--- LISTA DE PRODUCTOS ---");
+        if (listaProductos.isEmpty()) {
+            System.out.println("No hay productos en la tienda.");
+            return;
+        }
+        
+        for (Producto p : listaProductos) {
+            System.out.println(p.toString());
+        }
+        System.out.println("--------------------------\n");
+    }
+
+    public Producto buscarProductoPorId(int id) {
+        for (Producto p : listaProductos) {
+            if (p.getId() == id) {
+                return p;
+            }
+        }
+        return null; 
+    }
+}

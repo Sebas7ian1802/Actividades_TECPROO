@@ -1,0 +1,37 @@
+package semana_1_ejer_3;
+
+public class ProgramaLibro {
+    public static void main(String[] args) {
+        
+        // 1. Iniciamos la biblioteca
+        LibroController biblioteca = new LibroController();
+
+        // 2. Creamos los libros (nacen con estado disponible = true)
+        Libro lib1 = new Libro("ISBN-001", "Cien Años de Soledad", "Gabriel García Márquez", true);
+        Libro lib2 = new Libro("ISBN-002", "El Principito", "Antoine de Saint-Exupéry", true);
+        Libro lib3 = new Libro("ISBN-003", "1984", "George Orwell", true);
+
+        System.out.println(">> REGISTRANDO LIBROS...");
+        biblioteca.agregarLibro(lib1);
+        biblioteca.agregarLibro(lib2);
+        biblioteca.agregarLibro(lib3);
+
+        // 3. Vemos el estado inicial
+        biblioteca.listarLibros();
+
+        // 4. Simulamos préstamos
+        System.out.println(">> PRUEBA DE PRÉSTAMOS...");
+        biblioteca.prestarLibro("ISBN-002"); // Debería funcionar
+        biblioteca.prestarLibro("ISBN-002"); // Debería lanzar el mensaje de que ya está prestado
+        
+        // Vemos cómo cambió el inventario
+        biblioteca.listarLibros();
+
+        // 5. Simulamos una devolución
+        System.out.println(">> PRUEBA DE DEVOLUCIÓN...");
+        biblioteca.devolverLibro("ISBN-002"); // Debería devolverlo con éxito
+        
+        // Vemos el inventario final
+        biblioteca.listarLibros();
+    }
+}
