@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="C:\Program Files\Java\jdk-17" stamp="1771720980674"/>
+    <entry loc="C:\Program Files\Java\jdk-17" stamp="1772831293387"/>
     <entry loc="C:\Program Files\Eclipse Adoptium\jdk-25.0.2.10-hotspot" stamp="1775596786411"/>
     <entry loc="C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638" stamp="1776988546943"/>
     <entry loc="C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638\jre" stamp="1776988546941"/>
-    <entry loc="C:\Program Files\Java\jdk-25.0.2" stamp="1771720661865"/>
+    <entry loc="C:\Program Files\Java\jdk-25.0.2" stamp="1772837744786"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_481" stamp="1772831269152"/>
 </dirs>
