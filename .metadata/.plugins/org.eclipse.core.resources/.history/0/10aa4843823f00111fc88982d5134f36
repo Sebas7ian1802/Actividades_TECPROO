@@ -1,0 +1,18 @@
+package semana_2_ejer_2;
+
+public class Movil {
+    private double velocidadInicial; // (v0)
+    private double tiempo; // (t)
+    private double aceleracion; // (a)
+
+    public Movil(double velocidadInicial, double tiempo, double aceleracion) {
+        this.velocidadInicial = velocidadInicial;
+        this.tiempo = tiempo;
+        this.aceleracion = aceleracion;
+    }
+
+    public double calcularEspacio() {
+        // Fórmula MRUV: d = v0*t + 0.5*a*t²
+        return (this.velocidadInicial * this.tiempo) + (0.5 * this.aceleracion * Math.pow(this.tiempo, 2));
+    }
+}

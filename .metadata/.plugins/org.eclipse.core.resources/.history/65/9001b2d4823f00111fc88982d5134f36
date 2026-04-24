@@ -1,0 +1,54 @@
+package semana_2_ejer_2;
+
+public class MainSemana2 {
+    public static void main(String[] args) {
+        
+        System.out.println("=== PRUEBAS SEMANA 2: 10 EJERCICIOS ===\n");
+
+        // Ejercicio 1: Triangulo
+        Triangulo tri = new Triangulo(10.5, 5.0);
+        System.out.println("1. Triángulo -> Área: " + tri.calcularArea());
+
+        // Ejercicio 2: Numero
+        Numero num = new Numero(4.0);
+        System.out.println("2. Número (4.0) -> Cuadrado: " + num.calcularCuadrado() + " | Cubo: " + num.calcularCubo());
+
+        // Ejercicio 3: Cilindro
+        Cilindro cil = new Cilindro(5.0, 10.0);
+        // Usamos String.format para redondear a 2 decimales y que se vea mejor
+        System.out.println("3. Cilindro -> Volumen: " + String.format("%.2f", cil.calcularVolumen()));
+
+        // Ejercicio 4: TrianguloRectangulo
+        TrianguloRectangulo triRect = new TrianguloRectangulo(3.0, 4.0);
+        System.out.println("4. Triángulo Rectángulo -> Área: " + triRect.calcularArea() + 
+                           " | Hipotenusa: " + triRect.calcularHipotenusa() + 
+                           " | Perímetro: " + triRect.calcularPerimetro());
+
+        // Ejercicio 5: ConversionTemperatura
+        ConversionTemperatura temp = new ConversionTemperatura(25.0);
+        System.out.println("5. Temperatura -> 25°C equivalen a " + temp.calcularFahrenheit() + "°F");
+
+        // Ejercicio 6: ConversionLongitud
+        ConversionLongitud longi = new ConversionLongitud(10.0);
+        System.out.println("6. Longitud -> 10 metros son " + String.format("%.2f", longi.calcularPies()) + " pies y " + 
+                           String.format("%.2f", longi.calcularPulgadas()) + " pulgadas.");
+
+        // Ejercicio 7: Producto
+        Producto prod = new Producto("Laptop Gamer", 2500.00, 3200.00);
+        System.out.println("7. Producto -> La ganancia de vender la '" + prod.getNombre() + "' es de S/ " + prod.calcularGanancia());
+
+        // Ejercicio 8: Trabajador
+        Trabajador dev = new Trabajador("Sebastián Moreno", 25.5, 40);
+        System.out.println("8. Trabajador -> El salario neto de " + dev.getNombre() + " es de S/ " + dev.calcularSalarioNeto());
+
+        // Ejercicio 9: GasIdeal
+        GasIdeal gas = new GasIdeal(298.15, 2.0, 50.0); // 298.15K (25°C), 2 moles, 50 Litros
+        System.out.println("9. Gas Ideal -> La presión calculada es: " + String.format("%.4f", gas.calcularPresion()) + " atmósferas.");
+
+        // Ejercicio 10: Movil
+        Movil auto = new Movil(0, 10, 5); // v0=0, t=10s, a=5m/s²
+        System.out.println("10. Móvil -> El espacio recorrido en 10 seg es: " + auto.calcularEspacio() + " metros.");
+        
+        System.out.println("\n=== PRUEBAS FINALIZADAS EXITOSAMENTE ===");
+    }
+}

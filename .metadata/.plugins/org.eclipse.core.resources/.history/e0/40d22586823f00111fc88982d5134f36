@@ -1,0 +1,18 @@
+package semana_2_ejer_2;
+
+public class MainSemana2 {
+    public static void main(String[] args) {
+        
+        // Prueba Ejercicio 3
+        Cilindro miCilindro = new Cilindro(5.0, 10.0);
+        System.out.println("Volumen del cilindro: " + miCilindro.calcularVolumen());
+
+        // Prueba Ejercicio 8
+        Trabajador dev = new Trabajador("Sebastián", 25.5, 40);
+        System.out.println("Salario Neto del desarrollador: S/ " + dev.calcularSalarioNeto());
+        
+        // Prueba Ejercicio 10
+        Movil auto = new Movil(0, 10, 5);
+        System.out.println("10. Móvil -> El espacio recorrido en 10 seg es: " + auto.calcularEspacio() + " metros.");
+    }
+}

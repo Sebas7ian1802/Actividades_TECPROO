@@ -1,0 +1,22 @@
+package semana_2_ejer_2;
+
+public class Producto {
+    private String nombre;
+    private double precioDeCosto;
+    private double precioDeVenta;
+
+    public Producto(String nombre, double precioDeCosto, double precioDeVenta) {
+        this.nombre = nombre;
+        this.precioDeCosto = precioDeCosto;
+        this.precioDeVenta = precioDeVenta;
+    }
+
+    
+    public String getNombre() {
+        return this.nombre;
+    }
+
+    public double calcularGanancia() {
+        return this.precioDeVenta - this.precioDeCosto;
+    }
+}

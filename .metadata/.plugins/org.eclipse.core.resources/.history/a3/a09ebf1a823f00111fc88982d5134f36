@@ -1,0 +1,21 @@
+package semana_2_ejer_2;
+
+public class GasIdeal {
+    private double temperatura; // Asumiendo Kelvin (K)
+    private double numeroDeMoles; // (n)
+    private double volumen; // En litros (V)
+    
+    // Constante universal de los gases ideales (R) en (L·atm)/(mol·K)
+    private final double CONSTANTE_R = 0.08206; 
+
+    public GasIdeal(double temperatura, double numeroDeMoles, double volumen) {
+        this.temperatura = temperatura;
+        this.numeroDeMoles = numeroDeMoles;
+        this.volumen = volumen;
+    }
+
+    public double calcularPresion() {
+        // Fórmula general: P * V = n * R * T  =>  P = (n * R * T) / V
+        return (this.numeroDeMoles * CONSTANTE_R * this.temperatura) / this.volumen;
+    }
+}

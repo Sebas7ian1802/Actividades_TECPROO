@@ -1,0 +1,73 @@
+package semana_2_ejer_2;
+
+//1. Clase Triangulo
+public class Triangulo {
+ private double base;
+ private double altura;
+
+ public Triangulo(double base, double altura) {
+     this.base = base;
+     this.altura = altura;
+ }
+
+ public double calcularArea() {
+     return (this.base * this.altura) / 2;
+ }
+}
+
+//2. Clase Numero
+public class Numero {
+ private double numeroReal;
+
+ public Numero(double numeroReal) {
+     this.numeroReal = numeroReal;
+ }
+
+ public double calcularCuadrado() {
+     return Math.pow(this.numeroReal, 2);
+ }
+
+ public double calcularCubo() {
+     return Math.pow(this.numeroReal, 3);
+ }
+}
+
+//3. Clase Cilindro
+public class Cilindro {
+ private double radio;
+ private double altura;
+
+ public Cilindro(double radio, double altura) {
+     this.radio = radio;
+     this.altura = altura;
+ }
+
+ public double calcularVolumen() {
+     // Fórmula: π * r² * h
+     return Math.PI * Math.pow(this.radio, 2) * this.altura;
+ }
+}
+
+//4. Clase TrianguloRectangulo
+public class TrianguloRectangulo {
+ private double cateto1;
+ private double cateto2;
+
+ public TrianguloRectangulo(double cateto1, double cateto2) {
+     this.cateto1 = cateto1;
+     this.cateto2 = cateto2;
+ }
+
+ public double calcularArea() {
+     return (this.cateto1 * this.cateto2) / 2;
+ }
+
+ public double calcularHipotenusa() {
+     // Math.hypot hace automáticamente la raíz cuadrada de la suma de los cuadrados
+     return Math.hypot(this.cateto1, this.cateto2); 
+ }
+
+ public double calcularPerimetro() {
+     return this.cateto1 + this.cateto2 + calcularHipotenusa();
+ }
+}
