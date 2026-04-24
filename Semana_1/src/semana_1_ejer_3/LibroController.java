@@ -1,0 +1,65 @@
+package semana_1_ejer_3;
+
+import java.util.ArrayList;
+
+public class LibroController {
+    // almacenamiento
+    private ArrayList<Libro> listaLibros;
+
+    // Constructor
+    public LibroController() {
+        this.listaLibros = new ArrayList<>();
+    }
+
+    // Método para agregar
+    public void agregarLibro(Libro l) {
+        listaLibros.add(l);
+        System.out.println("Libro '" + l.getTitulo() + "' agregado a la biblioteca.");
+    }
+
+    // Método para listar
+    public void listarLibros() {
+        System.out.println("\nINVENTARIO DE LA BIBLIOTECA");
+        if (listaLibros.isEmpty()) {
+            System.out.println("La biblioteca está vacía.");
+            return;
+        }
+        for (Libro l : listaLibros) {
+            System.out.println(l.toString());
+        }
+        System.out.println("\n");
+    }
+
+    // Método para PRESTAR 
+    public void prestarLibro(String isbn) {
+        for (Libro l : listaLibros) {
+            
+            if (l.getIsbn().equals(isbn)) {
+                if (l.isDisponible()) {
+                    l.setDisponible(false); // 
+                    System.out.println("Exito: El libro '" + l.getTitulo() + "' ha sido prestado.");
+                } else {
+                    System.out.println("Lo sentimos: El libro '" + l.getTitulo() + "' ya se encuentra prestado.");
+                }
+                return; // Terminamos el método
+            }
+        }
+        System.out.println("Error: No se encontró un libro con el ISBN " + isbn);
+    }
+
+    // Método para DEVOLVER 
+    public void devolverLibro(String isbn) {
+        for (Libro l : listaLibros) {
+            if (l.getIsbn().equals(isbn)) {
+                if (!l.isDisponible()) { 
+                    l.setDisponible(true); 
+                    System.out.println("Exito: El libro '" + l.getTitulo() + "' ha sido devuelto a la biblioteca.");
+                } else {
+                    System.out.println("Aviso: El libro '" + l.getTitulo() + "' ya estaba en la biblioteca.");
+                }
+                return;
+            }
+        }
+        System.out.println("Error: No se encontró un libro con el ISBN " + isbn);
+    }
+}

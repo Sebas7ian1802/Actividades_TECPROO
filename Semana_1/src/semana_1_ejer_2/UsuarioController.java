@@ -1,0 +1,58 @@
+package semana_1_ejer_2;
+
+import java.util.ArrayList;
+
+public class UsuarioController {
+    // Almacenamiento dinámico
+    private ArrayList<Usuario> listaUsuarios;
+
+    // Constructor
+    public UsuarioController() {
+        this.listaUsuarios = new ArrayList<>();
+    }
+
+    // CREATE (Crear)
+    public void agregarUsuario(Usuario u) {
+        listaUsuarios.add(u);
+        System.out.println("Usuario '" + u.getNombre() + "' registrado exitosamente.");
+    }
+
+    // READ (Leer/Listar)
+    public void listarUsuarios() {
+        System.out.println("\nLISTA DE USUARIOS");
+        if (listaUsuarios.isEmpty()) {
+            System.out.println("No hay usuarios en el sistema.");
+            return;
+        }
+        for (Usuario u : listaUsuarios) {
+            System.out.println(u.toString());
+        }
+        System.out.println("\n");
+    }
+
+    // UPDATE (Actualizar)
+    public void actualizarEmail(int id, String nuevoEmail) {
+        for (Usuario u : listaUsuarios) {
+            if (u.getId() == id) {
+                u.setEmail(nuevoEmail);
+                System.out.println("Email actualizado para el ID " + id);
+                return; // Encontramos al usuario, terminamos el método aquí
+            }
+        }
+        // Si el bucle termina y no encontró el ID, mostramos error
+        System.out.println("Error: No existe un usuario con el ID " + id);
+    }
+
+    // DELETE (Eliminar)
+    public void eliminarUsuario(int id) {
+        // Usamos un bucle tradicional para saber la posición (índice) exacta a borrar
+        for (int i = 0; i < listaUsuarios.size(); i++) {
+            if (listaUsuarios.get(i).getId() == id) {
+                System.out.println("Usuario '" + listaUsuarios.get(i).getNombre() + "' eliminado.");
+                listaUsuarios.remove(i); // Removemos de la lista usando su posición
+                return;
+            }
+        }
+        System.out.println("No se puede eliminar. ID " + id + " no encontrado.");
+    }
+}
